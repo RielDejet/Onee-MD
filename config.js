@@ -43,7 +43,7 @@ global.eror = '𝖤𝗋𝗋𝗈𝗋\n𝘐𝘯𝘵𝘦𝘳𝘯𝘢𝘭 𝘚𝘦�
 
 //========Url Template Buttons=========//
 global.dtu = 'Grup Bot'
-global.urlnya = "https://chat.whatsapp.com/GfwblXDHAqF4iA27wk8Gf4"
+global.urlnya = "https://chat.whatsapp.com/JqzZbqyCvBa6tXzLH1P3hZ"
 
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
@@ -57,12 +57,12 @@ global.dikit = "dikit lagi, semangat ya :')"
 global.multiplier = 100 // The higher, The harder levelup
 
 // Sticker WM
-global.packname = '𝖮𝗇𝖾 𝖡𝗈𝗍𝗓'
+global.packname = 'Riel 𝖡𝗈𝗍𝗓'
 global.author = ''
 
 //=========== Requirements ==========//  
         global.colong1 = 'Ciss 📸'
-        global.colong2 = '𝖮𝗇𝖾 𝖡𝗈𝗍𝗓'
+        global.colong2 = 'Riel 𝖡𝗈𝗍𝗓'
 global.img = pickRandom(waifu)
 global.fla = pickRandom(flaaa)
 
